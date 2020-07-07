@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileUpload", "FileUpload\FileUpload.csproj", "{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Debug|x64.Build.0 = Debug|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Debug|x86.Build.0 = Debug|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Release|x64.ActiveCfg = Release|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Release|x64.Build.0 = Release|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Release|x86.ActiveCfg = Release|Any CPU
+		{FB6B18A1-E7B0-4243-91D7-5D47A3D4006C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24243E8A-1153-4EA9-82D9-C927606CA0FC}
+	EndGlobalSection
+EndGlobal
